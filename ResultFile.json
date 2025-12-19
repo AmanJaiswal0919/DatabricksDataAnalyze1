@@ -1,0 +1,4 @@
+{"empid":1,"name":"Aman","deptid":10,"salary":50000,"salary_category":"High","deptname":"IT"}
+{"empid":2,"name":"Ravi","deptid":20,"salary_category":"Low","deptname":"HR"}
+{"empid":3,"name":"Neha","deptid":10,"salary":60000,"salary_category":"High","deptname":"IT"}
+{"empid":4,"name":"Pooja","deptid":30,"salary_category":"Low","deptname":"Finance"}
